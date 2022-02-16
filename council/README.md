@@ -1,3 +1,5 @@
+# Council Info
+
 [The Joystream Code](https://pioneer.joystreamstats.live/#/forum/threads/595)
 
 proposal_guidelines.md
